@@ -5,7 +5,7 @@ import utilStyles from '../styles/utils.module.css';
 import Link from 'next/link';
 
 const name = 'Rhys Addinsall'
-export const siteTitle = 'Next.js Sample Website';
+export const siteTitle = 'Rhys Addinsall Web Development';
 
 // meta tags (like og:image), which are used to describe a page's content
 // Boolean home prop which will adjust the size of the title and the image
@@ -19,7 +19,7 @@ export default function Layout ({ children, home }) {
         <link rel="icon" href="/favicon.ico" />
         <meta
           name="description"
-          content="Learn how to build a personal website using Next.js"
+          content="Rhys Addinsall - Web Developer"
         />
         <meta
           property="og:image"
